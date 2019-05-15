@@ -1,5 +1,5 @@
 # Urban-Concentration-Mapping
-Urban concentration heat maps extracted from Google Maps Aerial Images.
+Urban concentration heat maps extraction from Google Maps Aerial Images.
 
 ### Objective
 This project proposes spatial analisys of urban areas given aerial images, with focus on building and populational density. The main goal is to extract heat maps that describe urban concentration and provide  data for geospatial studies.
