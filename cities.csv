@@ -1,0 +1,9 @@
+city,population,area(km^2),filename,pixelperkm
+Brasilia,2947703,5760.783,brasilia.png,
+Manaus,2145444,11401.092,manaus.png
+Rio de Janeiro,6688927,1200.255,riodejaneiro.png 
+Salvador,2857329,693.831,salvador.png
+Santos,432957,281.033,santos.png
+Sao Carlos,249415,1136.907,saocarlos.png
+Sao Luis,1094667,582.974,saoluis.png
+Sao Paulo,12176866,1521.11,saopaulo.png

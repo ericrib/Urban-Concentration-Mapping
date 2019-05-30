@@ -1,0 +1,25 @@
+brasilia, 4800x2810, 1km - 196 px
+		downsize factor(height/1000) : 2.81
+		ratio : 70 px/km
+
+sao paulo, 4800x2674, 4km - 288px (72px/km)
+	ratio: 69 px/km
+
+manaus, 4800x 2819, 1km 278px
+	ratio:99 px/km
+
+sao carlos, 4800x2674, 1km - 206 px
+	ratio: 77 px/km
+
+sao luis, x2819, 800m - 348 px => 1k - 435
+	ratio: 154 px/km
+
+rio de janeiro, x2819, 1km - 296px
+	ratio: 105px/km
+
+salvador, x2819, 900m - 356
+	ratio: 140px/km
+
+santos x2674, 1km - 206
+	ratio: 77px/km
+	
