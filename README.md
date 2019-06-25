@@ -36,7 +36,7 @@ The data on the cities was found on [IBGEpopulacao](https://agenciadenoticias.ib
 ### Methods
 Inspired by [Ponti, 2013](http://conteudo.icmc.usp.br/pessoas/moacir/papers/Ponti_GRSL2013.pdf) and the contents of Digital Image Processing class materials, imageprocessing techniques such as Vegetation indices,Texture detection and Otsu's Thresholding. Then classifying the density of areas with statistical analysis based on the resulting image and on the IBGE data.
 
-First, the methods of vegetation indices (such as Visual Vegetation Index) are used for increasing the contrast betwen forest areas and building areas using ratios of color channels to alter the image. Similar ratios could be used to set the land apart from water. Empty land is more tricky to diferentiate by color, so texture detection will be used. K-means clustering then will further set the building areas apart from the rest of the image, which result will be thresholded according to Otsu's thresholding method. With the image binarized, we can compare the density of found building area with the estimated density given by the IBGE data. We can then arbitrarely determine category in which we'll classify the density tiers.
+The methods of vegetation indices (such as Visual Vegetation Index) are used for increasing the contrast betwen forest areas and building areas using ratios of color channels to alter the image. Similar ratios could be used to set the land apart from water. Empty land is more tricky to differentiate by color, histogram comparisson tries to capture the noise in urban dense areas. We can then arbitrarely determine category in which is possible to classify the density tiers by how much the rest of the image compares to the reference urban dense area.
 
 
 ### Aplication
