@@ -45,6 +45,6 @@ Designed to aid spatial epidemiology projects, but useful to other geospatial st
 ### Reports
 [Partial Report](https://github.com/ericrib/Urban-Density-Mapping/blob/master/partial.ipynb)
 
-[Improved partial](https://github.com/ericrib/Urban-Density-Mapping/blob/master/partial_improved.ipynb)
+[Improved Partial](https://github.com/ericrib/Urban-Density-Mapping/blob/master/partial_improved.ipynb)
 
 [Final Report](https://github.com/ericrib/Urban-Density-Mapping/blob/master/Final_Report.ipynb)
