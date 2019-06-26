@@ -1,5 +1,5 @@
 # Urban-Density-Mapping
-Urban density heat maps extraction from Google Maps Aerial Images.
+Urban density heat maps extraction from Google Earth Aerial Images.
 This is the final project for the Digital Image Processing course, 2019/1.
 ___
 
